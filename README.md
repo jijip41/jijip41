@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img href="https://gph.is/g/EqN8M7r" style="text-align:center">
+<img src="https://gph.is/g/EqN8M7r" align="center" width="200" height="200">
 
 
-🌱 I'm currently learning to code with amazing people at Founders and Coders.
-👯 I'm proud to be a part of FAC22 
+- 🌱 I'm currently learning to code with amazing people at Founders and Coders.
+- 👯 I'm proud to be a part of FAC22 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijip41)](https://github.com/anuraghazra/github-readme-stats)
