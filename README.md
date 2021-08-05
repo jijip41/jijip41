@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<img href="https://gph.is/g/EqN8M7r" style="text-align:center">
+
+
+🌱 I'm currently learning to code with amazing people at Founders and Coders.
+👯 I'm proud to be a part of FAC22 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijip41)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jijip41/jijip41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
