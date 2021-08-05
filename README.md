@@ -1,12 +1,26 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" align="center" width="200" height="200">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" margin="auto" width="50" height="50">
 
+#### Jihye(Ji-hei)  - you can also call me Ji 
 
-- 🌱 I'm currently learning to code with amazing people at Founders and Coders.
-- 👯 I'm proud to be a part of FAC22 
+- 🌱 I'm currently learning to code with amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
+- 👩‍💻 My ultimate goal is to become a full-stack developer.
 
+#### My projects 
 
+- Project gallery
+- API project
+- Application website for FAC22
+- Mini carrot game
+
+#### Software skills and knowledge
+- Javascript
+- HTML5
+- CSS3
+- SQL, React, TypeScript and Node.JS
+
+#### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijip41)](https://github.com/anuraghazra/github-readme-stats)
 
 
