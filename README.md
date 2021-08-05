@@ -7,12 +7,10 @@
 
 ---
 
-- 🌱 I'm currently learning to code with amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
-- 👩‍💻 My ultimate goal is to become a full-stack developer who is specialised in the language I love. At the moment, it is JavaScript.
-- I really look forward to exploring new tech stacks. It's really exciting to think about which language I will fall in love and end up with in my life. 
+- 🌱 I'm currently learning to code with some amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
+- 👩‍💻 My ultimate goal is to become a full-stack developer who specialises in a few different languages. I'm always looking to develop my skills and I really look forward to exploring new tech stacks. I'm really excited to continue my journey in code and can't wait to see where it takes me.
 
 #### My projects 
-
 - Project gallery
 - API project
 - Application website for FAC22
