@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" margin="auto" width="50" height="50">
+### Hi there <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="80" height="80">
 
 #### Jihye(Ji-hei)  - you can also call me Ji 
 
