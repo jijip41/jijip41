@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://gph.is/g/EqN8M7r" align="center" width="200" height="200">
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" align="center" width="200" height="200">
 
 
 - 🌱 I'm currently learning to code with amazing people at Founders and Coders.
