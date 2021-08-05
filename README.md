@@ -5,7 +5,7 @@
 #### My name is Jihye(Ji-hei)(She/Her)  
 ##### And you can also call me Ji 
 
-
+---
 
 - 🌱 I'm currently learning to code with amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
 - 👩‍💻 My ultimate goal is to become a full-stack developer who is specialised in the language I love. At the moment, it is JavaScript.
