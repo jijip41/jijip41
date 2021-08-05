@@ -15,7 +15,7 @@
 - Mini carrot game
 
 #### Software skills and knowledge
-- Javascript
+- Javascript ES6
 - HTML5
 - CSS3
 - SQL, React, TypeScript and Node.JS
