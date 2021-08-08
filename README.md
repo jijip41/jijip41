@@ -8,6 +8,7 @@
 ---
 
 - 🌱 I'm currently learning to code with some amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
+- 🌍 I currently work as a market researcher at South Korea Government Agency in London to help SMEs to expand their horizons.
 - 👩‍💻 My ultimate goal is to become a full-stack developer who specialises in a few different languages. I'm always looking to develop my skills and I really look forward to exploring new tech stacks. I'm really excited to continue my journey in code and can't wait to see where it takes me.
 
 #### My projects 
@@ -23,6 +24,12 @@
 - HTML5
 - CSS3
 - SQL, React, TypeScript and Node.JS
+
+#### My learning to code journey
+- [twitter](https://twitter.com/jihye_pak)
+- [FreeCodeCamp](https://www.freecodecamp.org/jhp)
+- [Codewars](https://www.codewars.com/users/Jihye_P)
+- [Codecademy] (Lesson Completed: Banking on Ruby / Module Completed: Object-Oriented Programming, Part II)
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijip41)](https://github.com/anuraghazra/github-readme-stats)
