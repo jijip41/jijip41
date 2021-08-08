@@ -12,7 +12,7 @@
 
 #### My projects 
 - [Shipping List](jijip41.github.io/shopping-list/)
-- [Project gallery]
+- [Project gallery](jijip41.github.io/ji-projects-gallery/)
 - [API project](fac22.github.io/tiger-not-a-cat/): [Collaborate with Danilo](https://github.com/danilo-cupido)
 - [Application website for FAC22](jijip41.github.io/my-website)
 - Mini carrot game
