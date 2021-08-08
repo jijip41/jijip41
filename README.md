@@ -16,7 +16,6 @@
 - [Shipping List](https://jijip41.github.io/Shopping-list/)
 - [API project](https://fac22.github.io/tiger-not-a-cat/): [Collaborate with Danilo](https://github.com/danilo-cupido)
 - [Application website for FAC22](https://jijip41.github.io/my-website)
-- Mini carrot game
 
 
 #### Software skills and knowledge
