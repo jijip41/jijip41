@@ -22,7 +22,7 @@
 - Javascript ES6
 - HTML5
 - CSS3
-- SQL, React, TypeScript and Node.JS
+- SQL, React, TypeScript, Ruby and Node.JS
 
 #### My learning to code journey
 - [twitter](https://twitter.com/jihye_pak)
