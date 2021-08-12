@@ -27,12 +27,12 @@
 - SQL, React, TypeScript, Ruby and Node.JS.
 
 #### My learning to code journey
-- [Github repository](https://github.com/jijip41/FAC22-Pre-Programme)
-- [twitter](https://twitter.com/jihye_pak)
-- [FreeCodeCamp](https://www.freecodecamp.org/jhp) (Certification: Responsive Web Design
+- [My FAC22 Pre-Programme Github repository|](https://github.com/jijip41/FAC22-Pre-Programme)
+- [twitter|](https://twitter.com/jihye_pak)
+- [FreeCodeCamp|](https://www.freecodecamp.org/jhp) (Certification: Responsive Web Design
  and JavaScript Algorithms and Data Structures)
-- [Codewars](https://www.codewars.com/users/Jihye_P)
-- [Codecademy] (Lesson Completed: Banking on Ruby / Module Completed: Object-Oriented Programming, Part II)
+- [Codewars|](https://www.codewars.com/users/Jihye_P)
+- Codecademy| (Lesson Completed: Banking on Ruby / Module Completed: Object-Oriented Programming, Part II)
 
 #### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijip41)](https://github.com/anuraghazra/github-readme-stats)
