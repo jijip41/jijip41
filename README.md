@@ -4,7 +4,7 @@
 
 #### My name is Jihye(Ji-hei)(She/Her)  
 ##### And you can also call me Ji 
-##### [Twitter](https://twitter.com/jihye_pak) [Linkedin](https://www.linkedin.com/in/jihyepak41/)
+##### [👉Twitter](https://twitter.com/jihye_pak) [👉Linkedin](https://www.linkedin.com/in/jihyepak41/)
 ---
 
 - 🌱 I'm currently learning to code with some amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
