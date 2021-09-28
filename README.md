@@ -7,9 +7,8 @@
 ##### [👉Twitter](https://twitter.com/jihye_pak) [👉Linkedin](https://www.linkedin.com/in/jihyepak41/)
 ---
 
-- 🌱 I'm currently learning to code with some amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders).
-- 🌍 I work as a market researcher at South Korea Government Agency in London to help SMEs to expand their horizons.
 - 🍀 I wanted do somthing more challenging and develop myself continuesly. When I overcame my fear of learning to code, I found a real joy and started to shape my future career. 
+- 🌱 I'm currently learning to code with some amazing people at [**@foundersandcoders**](https://github.com/foundersandcoders) and will be working as a software engineer apprentice at [**@Spill**](https://github.com/spillchat) from Dec 2021.
 - 👩‍💻 My ultimate goal is to become a full-stack developer who specialises in a few different languages. I'm always looking to develop my skills and I really look forward to exploring new tech stacks. I'm really excited to continue my journey in code and can't wait to see where it takes me.
 
 #### My projects 
