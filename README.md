@@ -1,1 +1,1 @@
-##### [Twitter](https://twitter.com/jihye_pak) [Linkedin](https://www.linkedin.com/in/jihyepak41/) [Blog](https://www.jihye.in)
+##### [Twitter](https://twitter.com/jihye_pak) [Linkedin](https://www.linkedin.com/in/jihyepak/) [Blog](https://www.jihye.in)
